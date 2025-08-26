@@ -1,6 +1,6 @@
 # [koishi.chat](https://koishi.chat)
 
-这里是 Koishi 的官方文档仓库。
+这里是 Koishi 的官方文档仓库的删减版。
 
 ## 许可证
 
